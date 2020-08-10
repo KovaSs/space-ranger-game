@@ -1,1 +1,1 @@
-# spaceRangerGame
+# space-ranger-game
